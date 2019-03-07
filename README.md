@@ -20,3 +20,6 @@ Este aplicativo tem os objetivos:
 
 ## Documentação
 Toda a documentação será feita inicialmente na pasta **/documentacao** do repositorio
+Quadro Trello: https://trello.com/b/OzN0qcSX/projeto-android-watg
+
+

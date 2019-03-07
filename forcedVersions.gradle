@@ -1,0 +1,6 @@
+configurations.all {
+    resolutionStrategy {
+        force "com.google.com.gson:gson:$rootProject.gson"
+    }
+}
+
