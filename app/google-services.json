@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729883263188",
+    "firebase_url": "https://who-are-those-guys.firebaseio.com",
+    "project_id": "who-are-those-guys",
+    "storage_bucket": "who-are-those-guys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729883263188:android:a568c03d00e2e5ea",
+        "android_client_info": {
+          "package_name": "br.com.dtidigital.whoarethoseguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729883263188-0slk3pgt1s080sfu6gdn0jaagigi8tm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfGrE5dFV-27BO71ybrnmxo3bO0me80E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
